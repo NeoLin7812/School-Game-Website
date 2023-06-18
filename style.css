@@ -125,6 +125,9 @@ article h2 {
     margin-left: 15px;
     margin-bottom: 50px;
     background-position: center center;
+    -webkit-transition: transform 500ms ease-in-out 0s;
+    -o-transition: transform 500ms ease-in-out 0s;
+    transition: transform 500ms ease-in-out 0s;
 
 }
 .container main .character {
@@ -157,6 +160,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
+    -webkit-transition: transform 500ms ease-in-out 0s;
+    -o-transition: transform 500ms ease-in-out 0s;
+    transition: transform 500ms ease-in-out 0s;
 }
 .char1_text0   {
     text-align: center;
@@ -215,6 +221,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
+    -webkit-transition: transform 500ms ease-in-out 0s;
+    -o-transition: transform 500ms ease-in-out 0s;
+    transition: transform 500ms ease-in-out 0s;
 }
 .char2_text0   {
     text-align: center;
@@ -273,6 +282,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
+    -webkit-transition: transform 500ms ease-in-out 0s;
+    -o-transition: transform 500ms ease-in-out 0s;
+    transition: transform 500ms ease-in-out 0s;
 }
 .char3_text0   {
     font-size: 280%;
@@ -464,4 +476,24 @@ article h2 {
 }
 .map3:hover {
     background-image: url(asset/%E6%96%87%E5%AD%B8%E9%99%A2%E6%95%99%E5%AE%A4.png);
+}
+.container1 .right:hover {
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.char1:hover {
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.char2:hover {
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.char3:hover {
+    -webkit-transform: scale(1.2);
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
 }
