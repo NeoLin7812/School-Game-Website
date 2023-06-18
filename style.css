@@ -125,9 +125,9 @@ article h2 {
     margin-left: 15px;
     margin-bottom: 50px;
     background-position: center center;
-    -webkit-transition: transform 500ms ease-in-out 0s;
-    -o-transition: transform 500ms ease-in-out 0s;
-    transition: transform 500ms ease-in-out 0s;
+    -webkit-transition: all 500ms ease-in-out 0s;
+    -o-transition: all 500ms ease-in-out 0s;
+    transition: all 500ms ease-in-out 0s;
 
 }
 .container main .character {
@@ -160,9 +160,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
-    -webkit-transition: transform 500ms ease-in-out 0s;
-    -o-transition: transform 500ms ease-in-out 0s;
-    transition: transform 500ms ease-in-out 0s;
+    -webkit-transition: all 500ms ease-in-out 0s;
+    -o-transition: all 500ms ease-in-out 0s;
+    transition: all 500ms ease-in-out 0s;
 }
 .char1_text0   {
     text-align: center;
@@ -221,9 +221,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
-    -webkit-transition: transform 500ms ease-in-out 0s;
-    -o-transition: transform 500ms ease-in-out 0s;
-    transition: transform 500ms ease-in-out 0s;
+    -webkit-transition: all 500ms ease-in-out 0s;
+    -o-transition: all 500ms ease-in-out 0s;
+    transition: all 500ms ease-in-out 0s;
 }
 .char2_text0   {
     text-align: center;
@@ -282,9 +282,9 @@ article h2 {
     height: 600px;
     -webkit-box-shadow: 5px 5px 10px;
     box-shadow: 5px 5px 10px;
-    -webkit-transition: transform 500ms ease-in-out 0s;
-    -o-transition: transform 500ms ease-in-out 0s;
-    transition: transform 500ms ease-in-out 0s;
+    -webkit-transition: all 500ms ease-in-out 0s;
+    -o-transition: all 500ms ease-in-out 0s;
+    transition: all 500ms ease-in-out 0s;
 }
 .char3_text0   {
     font-size: 280%;
